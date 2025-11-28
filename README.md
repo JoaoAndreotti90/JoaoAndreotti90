@@ -57,6 +57,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="filter: invert(1);" alt="Express" /><br>Express
     </td>
     <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /><br>Supabase
+    </td>
+    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>Git
     </td>
     <td align="center" width="90">
