@@ -26,7 +26,7 @@ Transformo requisitos de negócio em interfaces funcionais e intuitivas. Tenho e
 
 #### ⚙️ Back-End & Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,git,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,git,mysql" />
 </div>
 
 <br>
