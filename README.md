@@ -1,7 +1,7 @@
 # Olá! Eu sou o João Andreotti 👋
 
-Desenvolvedor Front-end com foco em **React.js**.
-Transformo requisitos de negócio em interfaces funcionais e intuitivas. Tenho experiência prática integrando Front-end moderno com Back-end (Supabase/Node.js).
+**Desenvolvedor Full Stack** com foco em **React.js, Next.js e TypeScript**.
+Tenho experiência prática na construção de aplicações completas (SaaS), integrando interfaces modernas com Back-end robusto (Node.js/Prisma/SQL) e sistemas de pagamento.
 
 <div align="center">
   <a href="https://meu-portfolio-two-ruby.vercel.app/" target="_blank">
@@ -17,20 +17,20 @@ Transformo requisitos de negócio em interfaces funcionais e intuitivas. Tenho e
 
 ---
 
-### 🚀 Minhas Habilidades Técnicas
+### 🚀 Stack Principal & Ferramentas
 
-#### 💻 Front-End
+#### 💻 Front-End & Mobile
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,html,css,bootstrap" />
 </div>
 
-#### ⚙️ Back-End & Ferramentas
+#### ⚙️ Back-End & Banco de Dados
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,mysql,git" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Focado em entregar soluções de código limpo e escalável."</i>
+  <i>"Focado em entregar soluções de código limpo, tipado e escalável."</i>
 </div>
