@@ -30,6 +30,11 @@ Tenho experiência prática na construção de aplicações completas (SaaS), in
 </div>
 
 #### 🛠 Ferramentas & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+</div>
+
+<br>
 
 <div align="center">
   <i>"Focado em entregar soluções de código limpo, tipado e escalável."</i>
