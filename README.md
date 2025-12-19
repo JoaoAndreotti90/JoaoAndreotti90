@@ -1,7 +1,7 @@
 # Olá! Eu sou o João Andreotti 👋
 
-**Desenvolvedor Full Stack** com foco em **React.js, Next.js e TypeScript**.
-Tenho experiência prática na construção de aplicações completas (SaaS), integrando interfaces modernas com Back-end robusto (Node.js/Prisma/SQL) e sistemas de pagamento.
+**Desenvolvedor Full Stack** com foco em **React.js, Next.js, Node.js e TypeScript**.
+Tenho experiência prática na construção de aplicações completas (SaaS), integrando interfaces modernas com Back-end robusto (Node.js/Prisma/PostgreSQL) e sistemas de pagamento.
 
 <div align="center">
   <a href="https://meu-portfolio-two-ruby.vercel.app/" target="_blank">
