@@ -26,7 +26,7 @@ Tenho experiência prática na construção de aplicações completas (SaaS), in
 
 #### ⚙️ Back-End & Banco de Dados
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres" />
 </div>
 
 #### 🛠 Ferramentas & DevOps
