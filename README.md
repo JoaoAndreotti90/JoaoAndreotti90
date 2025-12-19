@@ -19,14 +19,19 @@ Tenho experiência prática na construção de aplicações completas (SaaS), in
 
 ### 🚀 Stack Principal & Ferramentas
 
-#### 💻 Front-End & Mobile
+#### 💻 Front-End
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,html,css,bootstrap" />
 </div>
 
 #### ⚙️ Back-End & Banco de Dados
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,supabase,mysql" />
+</div>
+
+#### 🛠 Ferramentas & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </div>
 
 <br>
