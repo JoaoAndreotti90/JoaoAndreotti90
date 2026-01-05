@@ -21,7 +21,7 @@ Tenho experiência prática na construção de aplicações completas (SaaS), in
 
 #### 💻 Front-End
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,html,css" />
 </div>
 
 #### ⚙️ Back-End & Banco de Dados
