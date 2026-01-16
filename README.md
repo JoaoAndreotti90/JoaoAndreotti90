@@ -1,8 +1,9 @@
+
 # Olá! Eu sou o João Andreotti 👋
 
 **Desenvolvedor Full Stack** focado em transformar requisitos de negócio em software de alta performance.
 
-Tenho experiência na construção de soluções **SaaS** completas, especializando-me em **React.js, Next.js e Node.js**. Meu foco é entregar aplicações que integrem arquitetura limpa, pagamentos reais (Stripe) e otimização de dados (Prisma/PostgreSQL).
+Tenho experiência na construção de soluções **SaaS** completas, especializando-me em **React.js, Next.js, Node.js e TypeScript**. Meu foco é entregar aplicações que integrem arquitetura limpa, pagamentos reais (Stripe) e otimização de dados (Prisma/PostgreSQL).
 
 Também possuo histórico comprovado em **automação**, tendo desenvolvido scripts que reduziram em **65%** o tempo de tarefas operacionais em experiências anteriores.
 
@@ -24,7 +25,7 @@ Também possuo histórico comprovado em **automação**, tendo desenvolvido scri
 
 #### 💻 Front-End & Arquitetura
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind" />
 </div>
 
 #### ⚙️ Back-End & Banco de Dados
