@@ -1,10 +1,13 @@
 # Olá! Eu sou o João Andreotti 👋
 
-**Desenvolvedor Full Stack** com foco em **React.js, Next.js, Node.js e TypeScript**.
-Tenho experiência prática na construção de aplicações completas (SaaS), integrando interfaces modernas com Back-end robusto (Node.js/Prisma/PostgreSQL) e sistemas de pagamento.
+**Desenvolvedor Full Stack** focado em transformar requisitos de negócio em software de alta performance.
+
+Tenho experiência na construção de soluções **SaaS** completas, especializando-me em **React.js, Next.js e Node.js**. Meu foco é entregar aplicações que integrem arquitetura limpa, pagamentos reais (Stripe) e otimização de dados (Prisma/PostgreSQL).
+
+Também possuo histórico comprovado em **automação**, tendo desenvolvido scripts que reduziram em **65%** o tempo de tarefas operacionais em experiências anteriores.
 
 <div align="center">
-  <a href="https://meu-portfolio-two-ruby.vercel.app/" target="_blank">
+  <a href="https://joao-andreotti.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-andreotti/" target="_blank">
@@ -19,7 +22,7 @@ Tenho experiência prática na construção de aplicações completas (SaaS), in
 
 ### 🚀 Stack Principal & Ferramentas
 
-#### 💻 Front-End
+#### 💻 Front-End & Arquitetura
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,js,tailwind,html,css" />
 </div>
@@ -31,11 +34,11 @@ Tenho experiência prática na construção de aplicações completas (SaaS), in
 
 #### 🛠 Ferramentas & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,jest" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>"Focado em entregar soluções de código limpo, tipado e escalável."</i>
+  <i>"Construindo aplicações com foco em Performance (SSR), UX e Integridade de Dados."</i>
 </div>
